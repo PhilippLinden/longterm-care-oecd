@@ -15,3 +15,5 @@
 *.ent
 # Ignore backup folder
 05backup*/**
+# Ignore stata files
+*.dta
