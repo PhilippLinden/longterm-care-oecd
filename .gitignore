@@ -14,4 +14,4 @@
 *.bbl
 *.ent
 # Ignore backup folder
-/dir_to_ignore/05backup
+05backup/
