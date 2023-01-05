@@ -28,6 +28,9 @@ The paper by Ariaans, M.; Linden, P. & Wendt, C. (2021) with the DOI: 10.5771/03
 `/03dok`
 :  Documentation and output incl. figures and tables
 
+`\04pap`
+:  References for obtaining the paper
+
 ---
 
 ### Description
