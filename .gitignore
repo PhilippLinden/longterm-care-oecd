@@ -14,4 +14,4 @@
 *.bbl
 *.ent
 # Ignore backup folder
-05backup/
+05backup*/**
