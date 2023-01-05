@@ -49,7 +49,7 @@ set maxvar 32767      // size of data matrix
 * -> Retrieve c(username) by typing disp "`c(username)'" in command line
 
 if "`c(username)'" == "Linden" {
-	global wdir "C:\Users\Linden\Documents\GitHub\01-research\longterm-care-oecd"
+	global wdir "INSERT FILE PATH"
 }
 
 * sub-folders
