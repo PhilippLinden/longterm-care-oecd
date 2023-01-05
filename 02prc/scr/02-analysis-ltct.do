@@ -873,3 +873,8 @@ scatter LTC_he life_exp, msymbol(circle_hollow) mlabel(id) || lfit LTC_he life_e
 		
 ********************************************************************************
 
+* clear graph window
+
+graph drop *
+
+********************************************************************************
