@@ -37,7 +37,7 @@ The paper by Ariaans, M.; Linden, P. & Wendt, C. (2021) with the DOI: 10.5771/03
 
 This repository contains the code for the analysis in the paper entitled "Worlds of long-term care: A typology of OECD countries" which is published in [Health policy](https://www.sciencedirect.com/science/article/pii/S016885102100052X).
 
-The data for this analysis comes from [...].
+The data for this analysis comes from an excel file containing six quantitative measures from the OECD health data and five institutional indicators from Missoc database, the Health in Transition reports and the ESPN reports of the European Union. Please refer to section 2.1. in the paper for an overview.
 
 ---
 
