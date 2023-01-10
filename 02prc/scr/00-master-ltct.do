@@ -26,7 +26,6 @@ Notes:
 ------------------------------------------------------------------------------*/
 
 *ssc install blindschemes, all replace												// Blind and colorblind scheme for graphs
-*ssc install [ado], all replace													// [DESCRIBE]
 
 /*------------------------------------------------------------------------------
 #2 Stata settings
@@ -48,7 +47,7 @@ set maxvar 32767      // size of data matrix
 
 * -> Retrieve c(username) by typing disp "`c(username)'" in command line
 
-if "`c(username)'" == "Linden" {
+if "`c(username)'" == "[USERNAME]" {
 	global wdir "INSERT FILE PATH"
 }
 
@@ -68,7 +67,8 @@ global cbook	"$wdir\03doc\var"			// codebooks
 
 /// ------ Project-Do-Files *
 
-*do "[do-file]"    				// [DESCRIPTION]
+do $code\01-setup-ltct.do    					// Setup data
+do $code\02-analysis-ltct.do    				// Analysis
 
 *==============================================================================*
 
