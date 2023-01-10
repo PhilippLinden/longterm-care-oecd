@@ -6,7 +6,7 @@ Providing long-term care (LTC) to the elderly is a major challenge for the welfa
 
 ----
 
-The paper by Ariaans, M.; Linden, P. & Wendt, C. (2021) with the DOI: 10.5771/0342-300X-2021-6-454 can be obtained [here](https://www.wsi.de/de/wsi-mitteilungen-vignettenstudie-akzeptanz-sanktionen-im-sgb-ii-36761.htm).
+The paper by Ariaans, M.; Linden, P. & Wendt, C. (2021) with the DOI: 10.5771/0342-300X-2021-6-454 can be obtained [here](https://www.sciencedirect.com/science/article/pii/S016885102100052X).
 
 ----
 
