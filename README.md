@@ -25,7 +25,7 @@ The paper by Ariaans, M.; Linden, P. & Wendt, C. (2021) with the DOI: 10.5771/03
 `/02prc`
 :  Processed data and analytical scripts (possibly in subfolders)
 
-`/03dok`
+`/03doc`
 :  Documentation and output incl. figures and tables
 
 `/04pap`
